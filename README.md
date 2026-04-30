@@ -111,16 +111,3 @@ The app will be available at `http://localhost:5173`
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/dashboard` | Get stats |
-
-## 🚀 Deployment (Railway)
-
-1. Push code to GitHub
-2. Create a new Railway project
-3. Add a PostgreSQL service
-4. Add backend service (root dir: `server`, start: `npm start`)
-5. Add frontend service (root dir: `client`, build: `npm run build`)
-6. Set environment variables: `DATABASE_URL`, `JWT_SECRET`, `CLIENT_URL`
-7. Deploy!
-
-## 📝 License
-MIT
