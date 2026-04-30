@@ -23,7 +23,7 @@ A full-stack web application where users can create projects, assign tasks, and 
 | Auth | JWT + bcrypt |
 | Frontend | React 18 + Vite |
 | Styling | Vanilla CSS (Custom Design System) |
-| Deployment | Railway |
+
 
 ## 📦 Project Structure
 
